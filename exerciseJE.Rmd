@@ -23,3 +23,5 @@ header-includes:
 
 ---
 # New section
+
+# Section 2.3
