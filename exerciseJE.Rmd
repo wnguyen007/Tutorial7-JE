@@ -12,7 +12,7 @@ highlight: tango
 header-includes:
 - \usepackage{titling}
 - \pretitle{\begin{center}
-\includegraphics[width=5in,height=13in]{figs/front.jpg}
+  \includegraphics[width=5in,height=13in]{figs/front.jpg}
 - \posttitle{\end{center}}
 - \usepackage{fontawesome}
 - \usepackage[most]{tcolorbox}
@@ -25,3 +25,7 @@ header-includes:
 # New section
 
 # Section 2.3
+\begin{itemize}
+\item 1
+\item 2
+\end{itemize}
